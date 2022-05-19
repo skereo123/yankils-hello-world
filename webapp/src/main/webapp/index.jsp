@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning. hopefully you will get there sooner or later. trust the process </h1>
+   <h1> Thankyou, Happy Learning. hopefully you will get there sooner or later. it is what it is </h1>
 
   
 </form>
